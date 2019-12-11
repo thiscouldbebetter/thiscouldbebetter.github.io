@@ -5,14 +5,74 @@
 </head>
 
 <body>
+
 	<h1>This Could Be Better</h1>
 
 	<p>This is the Github Pages site of the user thiscouldbebetter.  This site features code repositories from https://github.com/thiscouldbebetter/ as runnable programs. </p>
 
-	<h2>Programs on this site:</h2>
-	<ul>
-		<li><a href="Source/MusicTracker/Source/_MusicTracker.html">Music Tracker</a></li>
-	</ul>
+	<h2>Repositories on this site:</h2>
+
+	<ul id="ulRepos"></ul>
+
+	<script type="text/javascript">
+
+		var reposAsList = document.getElementById("ulRepos");
+
+		var repoNames = 
+		[
+			"ArtilleryGame",
+			"AsteroidsGame",
+			"BaseBuildingEngine",
+			"BinaryFileToImageTranscoder",
+			"CivilizationBuildingGame",
+			"ConversationEngine",
+			"DesktopPublisher",
+			"EconomicsGame",
+			"FallingBlockGame",
+			"Flashcards",
+			"GameFramework",
+			"GIFViewer",
+			"HexEditor",
+			"JSMinifier",
+			"JSModularizer",
+			"MazeTraversalGame",
+			"MIDIReader",
+			"MultipleTextDocumentEditor",
+			"MusicTracker",
+			"NetworkedSpacewar",
+			"NetworkedTabletopGameEngine",
+			"OnlineStore",
+			"Paint",
+			"PixelArtEditor",
+			"RayTracer",
+			"RoguelikeGame",
+			"RPGCombatEngine",
+			"ScrollableTileMapEngine",
+			"SideScrollingPlatformerGame",
+			"SolitaireGame",
+			"SoundEditor",
+			"SpaceStrategy4XGame",
+			"TacticsGame",
+			"TarFileExplorer",
+			"ThreeDeeMazeGame",
+			"TileMatchingGame",
+			"TopDownSpaceGame",
+			"TrueTypeViewer",
+			"UrQuanMastersClone",
+		];
+
+		for (var i = 0; i < repoNames.length; i++)
+		{
+			var repoName = repoNames[i];
+			var linkToRepo = document.createElement("a");
+			linkToRepo.innerHTML = repoName;
+			linkToRepo.href = "Source/" + repoName + "/Source/" + repoName + ".html";
+			var repoAsListItem = document.createElement("li");
+			repoAsListItem.appendChild(linkToRepo);
+			reposAsList.appendChild(repoAsListItem);
+		}
+
+	</script>
 
 </body>
 
