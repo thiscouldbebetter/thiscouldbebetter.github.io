@@ -118,3 +118,6 @@
 [submodule "Source/Calculator"]
 	path = Source/Calculator
 	url = https://github.com/thiscouldbebetter/Calculator
+[submodule "Source/JsonPrettyPrinter"]
+	path = Source/JsonPrettyPrinter
+	url = https://github.com/thiscouldbebetter/JsonPrettyPrinter
