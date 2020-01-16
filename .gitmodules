@@ -121,3 +121,6 @@
 [submodule "Source/JsonPrettyPrinter"]
 	path = Source/JsonPrettyPrinter
 	url = https://github.com/thiscouldbebetter/JsonPrettyPrinter
+[submodule "Source/DataTranscoder"]
+	path = Source/DataTranscoder
+	url = https://github.com/thiscouldbebetter/DataTranscoder
