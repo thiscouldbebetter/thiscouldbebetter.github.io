@@ -124,3 +124,6 @@
 [submodule "Source/DataTranscoder"]
 	path = Source/DataTranscoder
 	url = https://github.com/thiscouldbebetter/DataTranscoder
+[submodule "Source/AddingMachine"]
+	path = Source/AddingMachine
+	url = https://github.com/thiscouldbebetter/AddingMachine
