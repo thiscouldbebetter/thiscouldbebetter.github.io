@@ -61,9 +61,9 @@
 [submodule "Source/JSModularizer"]
 	path = Source/JSModularizer
 	url = https://github.com/thiscouldbebetter/JSModularizer
-[submodule "Source/ScrollableTileMapEngine"]
-	path = Source/ScrollableTileMapEngine
-	url = https://github.com/thiscouldbebetter/ScrollableTileMapEngine
+[submodule "Source/RolePlayingGame"]
+	path = Source/RolePlayingGame
+	url = https://github.com/thiscouldbebetter/RolePlayingGame
 [submodule "Source/Flashcards"]
 	path = Source/Flashcards
 	url = https://github.com/thiscouldbebetter/Flashcards
