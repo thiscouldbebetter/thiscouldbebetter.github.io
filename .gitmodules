@@ -127,3 +127,6 @@
 [submodule "Source/AddingMachine"]
 	path = Source/AddingMachine
 	url = https://github.com/thiscouldbebetter/AddingMachine
+[submodule "Source/IsometricMapEngine"]
+	path = Source/IsometricMapEngine
+	url = https://github.com/thiscouldbebetter/IsometricMapEngine
