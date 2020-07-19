@@ -130,3 +130,6 @@
 [submodule "Source/IsometricMapEngine"]
 	path = Source/IsometricMapEngine
 	url = https://github.com/thiscouldbebetter/IsometricMapEngine
+[submodule "Source/TypeScriptToJavaScriptConverter"]
+	path = Source/TypeScriptToJavaScriptConverter
+	url = https://github.com/thiscouldbebetter/TypeScriptToJavaScriptConverter
