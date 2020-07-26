@@ -139,3 +139,6 @@
 [submodule "Source/CompressorLZW"]
 	path = Source/CompressorLZW
 	url = https://github.com/thiscouldbebetter/CompressorLZW
+[submodule "Source/SvgSimplifier"]
+	path = Source/SvgSimplifier
+	url = https://github.com/thiscouldbebetter/SvgSimplifier
