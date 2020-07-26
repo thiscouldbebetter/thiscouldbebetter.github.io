@@ -133,3 +133,9 @@
 [submodule "Source/TypeScriptToJavaScriptConverter"]
 	path = Source/TypeScriptToJavaScriptConverter
 	url = https://github.com/thiscouldbebetter/TypeScriptToJavaScriptConverter
+[submodule "Source/GameFrameworkTS"]
+	path = Source/GameFrameworkTS
+	url = https://github.com/thiscouldbebetter/GameFrameworkTS
+[submodule "Source/CompressorLZW"]
+	path = Source/CompressorLZW
+	url = https://github.com/thiscouldbebetter/CompressorLZW
