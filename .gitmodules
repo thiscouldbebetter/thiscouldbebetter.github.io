@@ -142,3 +142,6 @@
 [submodule "Source/SvgSimplifier"]
 	path = Source/SvgSimplifier
 	url = https://github.com/thiscouldbebetter/SvgSimplifier
+[submodule "Source/ImageCombiner"]
+	path = Source/ImageCombiner
+	url = https://github.com/thiscouldbebetter/ImageCombiner
