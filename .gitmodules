@@ -145,3 +145,6 @@
 [submodule "Source/ImageCombiner"]
 	path = Source/ImageCombiner
 	url = https://github.com/thiscouldbebetter/ImageCombiner
+[submodule "Source/RankedChoiceElection"]
+	path = Source/RankedChoiceElection
+	url = https://github.com/thiscouldbebetter/RankedChoiceElection
