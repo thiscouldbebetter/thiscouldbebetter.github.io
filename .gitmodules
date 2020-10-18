@@ -148,3 +148,6 @@
 [submodule "Source/RankedChoiceElection"]
 	path = Source/RankedChoiceElection
 	url = https://github.com/thiscouldbebetter/RankedChoiceElection
+[submodule "Source/SoundEffectSynthesizer"]
+	path = Source/SoundEffectSynthesizer
+	url = https://github.com/thiscouldbebetter/SoundEffectSynthesizer

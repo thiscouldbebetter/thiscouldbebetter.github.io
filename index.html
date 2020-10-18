@@ -4,7 +4,7 @@
 	<title>This Could Be Better</title>
 </head>
 
-<body>
+<body style="color:White;background-color:Black">
 
 	<h1>This Could Be Better</h1>
 
@@ -60,6 +60,7 @@
 			"SideScrollingPlatformerGame",
 			"SolitaireGame",
 			"SoundEditor",
+			"SoundEffectSynthesizer",
 			"SpaceStrategy4XGame",
 			"SvgSimplifier",
 			"TacticsGame",
@@ -76,6 +77,7 @@
 		{
 			var repoName = repoNames[i];
 			var linkToRepo = document.createElement("a");
+			linkToRepo.style.color = "White";
 			linkToRepo.innerHTML = repoName;
 			linkToRepo.href = "Source/" + repoName + "/Source/" + repoName + ".html";
 			var repoAsListItem = document.createElement("li");
