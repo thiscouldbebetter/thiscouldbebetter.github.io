@@ -40,3 +40,12 @@
 [submodule "Source/Flashcards"]
 	path = Source/Flashcards
 	url = https://github.com/thiscouldbebetter/Flashcards
+[submodule "Source/GameFramework"]
+	path = Source/GameFramework
+	url = https://github.com/thiscouldbebetter/GameFramework
+[submodule "Source/GameFrameworkTS"]
+	path = Source/GameFrameworkTS
+	url = https://github.com/thiscouldbebetter/GameFrameworkTS
+[submodule "Source/GIFViewer"]
+	path = Source/GIFViewer
+	url = https://github.com/thiscouldbebetter/GIFViewer
