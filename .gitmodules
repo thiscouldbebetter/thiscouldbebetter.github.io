@@ -1,3 +1,9 @@
 [submodule "Source/AddingMachine"]
 	path = Source/AddingMachine
 	url = https://github.com/thiscouldbebetter/AddingMachine
+[submodule "Source/ArtilleryGame"]
+	path = Source/ArtilleryGame
+	url = https://github.com/thiscouldbebetter/ArtilleryGame
+[submodule "Source/AsteroidsGame"]
+	path = Source/AsteroidsGame
+	url = https://github.com/thiscouldbebetter/AsteroidsGame
