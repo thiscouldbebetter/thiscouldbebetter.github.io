@@ -100,3 +100,6 @@
 [submodule "Source/RayTracer"]
 	path = Source/RayTracer
 	url = https://github.com/thiscouldbebetter/RayTracer
+[submodule "Source/RoguelikeGame"]
+	path = Source/RoguelikeGame
+	url = https://github.com/thiscouldbebetter/RoguelikeGame
