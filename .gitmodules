@@ -49,3 +49,30 @@
 [submodule "Source/GIFViewer"]
 	path = Source/GIFViewer
 	url = https://github.com/thiscouldbebetter/GIFViewer
+[submodule "Source/HexEditor"]
+	path = Source/HexEditor
+	url = https://github.com/thiscouldbebetter/HexEditor
+[submodule "Source/ImageCombiner"]
+	path = Source/ImageCombiner
+	url = https://github.com/thiscouldbebetter/ImageCombiner
+[submodule "Source/IsometricMapEngine"]
+	path = Source/IsometricMapEngine
+	url = https://github.com/thiscouldbebetter/IsometricMapEngine
+[submodule "Source/JSMinifier"]
+	path = Source/JSMinifier
+	url = https://github.com/thiscouldbebetter/JSMinifier
+[submodule "Source/JSModularizer"]
+	path = Source/JSModularizer
+	url = https://github.com/thiscouldbebetter/JSModularizer
+[submodule "Source/JsonPrettyPrinter"]
+	path = Source/JsonPrettyPrinter
+	url = https://github.com/thiscouldbebetter/JsonPrettyPrinter
+[submodule "Source/MazeTraversalGame"]
+	path = Source/MazeTraversalGame
+	url = https://github.com/thiscouldbebetter/MazeTraversalGame
+[submodule "Source/MIDIReader"]
+	path = Source/MIDIReader
+	url = https://github.com/thiscouldbebetter/MIDIReader
+[submodule "Source/MultipleTextDocumentEditor"]
+	path = Source/MultipleTextDocumentEditor
+	url = https://github.com/thiscouldbebetter/MultipleTextDocumentEditor
