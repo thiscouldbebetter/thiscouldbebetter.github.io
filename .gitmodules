@@ -7,3 +7,36 @@
 [submodule "Source/AsteroidsGame"]
 	path = Source/AsteroidsGame
 	url = https://github.com/thiscouldbebetter/AsteroidsGame
+[submodule "Source/BaseBuildingEngine"]
+	path = Source/BaseBuildingEngine
+	url = https://github.com/thiscouldbebetter/BaseBuildingEngine
+[submodule "Source/BinaryFileToImageTranscoder"]
+	path = Source/BinaryFileToImageTranscoder
+	url = https://github.com/thiscouldbebetter/BinaryFileToImageTranscoder
+[submodule "Source/Calculator"]
+	path = Source/Calculator
+	url = https://github.com/thiscouldbebetter/Calculator
+[submodule "Source/CivilizationBuildingGame"]
+	path = Source/CivilizationBuildingGame
+	url = https://github.com/thiscouldbebetter/CivilizationBuildingGame
+[submodule "Source/CompressorLZW"]
+	path = Source/CompressorLZW
+	url = https://github.com/thiscouldbebetter/CompressorLZW
+[submodule "Source/ConversationEngine"]
+	path = Source/ConversationEngine
+	url = https://github.com/thiscouldbebetter/ConversationEngine
+[submodule "Source/DataTranscoder"]
+	path = Source/DataTranscoder
+	url = https://github.com/thiscouldbebetter/DataTranscoder
+[submodule "Source/DesktopPublisher"]
+	path = Source/DesktopPublisher
+	url = https://github.com/thiscouldbebetter/DesktopPublisher
+[submodule "Source/EconomicsGame"]
+	path = Source/EconomicsGame
+	url = https://github.com/thiscouldbebetter/EconomicsGame
+[submodule "Source/FallingBlockGame"]
+	path = Source/FallingBlockGame
+	url = https://github.com/thiscouldbebetter/FallingBlockGame
+[submodule "Source/Flashcards"]
+	path = Source/Flashcards
+	url = https://github.com/thiscouldbebetter/Flashcards
