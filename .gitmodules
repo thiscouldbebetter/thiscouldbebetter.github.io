@@ -151,3 +151,18 @@
 [submodule "Source/UrQuanMastersClone"]
 	path = Source/UrQuanMastersClone
 	url = https://github.com/thiscouldbebetter/UrQuanMastersClone
+[submodule "Source/TextInterleaver"]
+	path = Source/TextInterleaver
+	url = https://github.com/thiscouldbebetter/TextInterleaver
+[submodule "Source/TextTransliterator"]
+	path = Source/TextTransliterator
+	url = https://github.com/thiscouldbebetter/TextTransliterator
+[submodule "Source/TextLexiconExtractor"]
+	path = Source/TextLexiconExtractor
+	url = https://github.com/thiscouldbebetter/TextLexiconExtractor
+[submodule "Source/TouchTypingTrainer"]
+	path = Source/TouchTypingTrainer
+	url = https://github.com/thiscouldbebetter/TouchTypingTrainer
+[submodule "Source/FileSplitter"]
+	path = Source/FileSplitter
+	url = https://github.com/thiscouldbebetter/FileSplitter
