@@ -1,0 +1,92 @@
+<html>
+
+<head>
+	<title>This Could Be Better</title>
+</head>
+
+<body style="color:White;background-color:Black">
+
+	<h1>This Could Be Better</h1>
+
+	<p>This is the Github Pages site of the user thiscouldbebetter.  This site features code repositories from https://github.com/thiscouldbebetter/ as runnable programs. </p>
+
+	<h2>Repositories on this site:</h2>
+
+	<ul id="ulRepos"></ul>
+
+	<script type="text/javascript">
+
+		var reposAsList = document.getElementById("ulRepos");
+
+		var repoNames = 
+		[
+			"AddingMachine",
+			"ArtilleryGame",
+			"AsteroidsGame",
+			"BaseBuildingEngine",
+			"BinaryFileToImageTranscoder",
+			"Calculator",
+			"CivilizationBuildingGame",
+			"CompressorLZW",
+			"ConversationEngine",
+			"DataTranscoder",
+			"DesktopPublisher",
+			"EconomicsGame",
+			"FallingBlockGame",
+			"Flashcards",
+			"GameFramework",
+			"GameFrameworkTS",
+			"GIFViewer",
+			"HexEditor",
+			"ImageCombiner",
+			"IsometricMapEngine",
+			"JSMinifier",
+			"JSModularizer",
+			"JsonPrettyPrinter",
+			"MazeTraversalGame",
+			"MIDIReader",
+			"MultipleTextDocumentEditor",
+			"MusicTracker",
+			"NetworkedSpacewar",
+			"NetworkedTabletopGameEngine",
+			"OnlineStore",
+			"Paint",
+			"PixelArtEditor",
+			"RankedChoiceElection",
+			"RayTracer",
+			"RoguelikeGame",
+			"RPGCombatEngine",
+			"ScrollableTileMapEngine",
+			"SideScrollingPlatformerGame",
+			"SolitaireGame",
+			"SoundEditor",
+			"SoundEffectSynthesizer",
+			"SpaceStrategy4XGame",
+			"SvgSimplifier",
+			"TacticsGame",
+			"TarFileExplorer",
+			"ThreeDeeMazeGame",
+			"TileMatchingGame",
+			"TopDownSpaceGame",
+			"TrueTypeViewer",
+			"TypeScriptToJavaScriptConverter",
+			"UrQuanMastersClone",
+		];
+
+		for (var i = 0; i < repoNames.length; i++)
+		{
+			var repoName = repoNames[i];
+			var linkToRepo = document.createElement("a");
+			linkToRepo.style.color = "White";
+			linkToRepo.innerHTML = repoName;
+			linkToRepo.href = "Source/" + repoName + "/Source/" + repoName + ".html";
+			var repoAsListItem = document.createElement("li");
+			repoAsListItem.appendChild(linkToRepo);
+			reposAsList.appendChild(repoAsListItem);
+		}
+
+	</script>
+
+</body>
+
+</html>

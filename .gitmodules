@@ -1,0 +1,3 @@
+[submodule "Source/AddingMachine"]
+	path = Source/AddingMachine
+	url = https://github.com/thiscouldbebetter/AddingMachine
