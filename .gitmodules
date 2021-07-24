@@ -76,3 +76,27 @@
 [submodule "Source/MultipleTextDocumentEditor"]
 	path = Source/MultipleTextDocumentEditor
 	url = https://github.com/thiscouldbebetter/MultipleTextDocumentEditor
+[submodule "Source/MusicTracker"]
+	path = Source/MusicTracker
+	url = https://github.com/thiscouldbebetter/MusicTracker
+[submodule "Source/NetworkedSpacewar"]
+	path = Source/NetworkedSpacewar
+	url = https://github.com/thiscouldbebetter/NetworkedSpacewar
+[submodule "Source/NetworkedTabletopGameEngine"]
+	path = Source/NetworkedTabletopGameEngine
+	url = https://github.com/thiscouldbebetter/NetworkedTabletopGameEngine
+[submodule "Source/OnlineStore"]
+	path = Source/OnlineStore
+	url = https://github.com/thiscouldbebetter/OnlineStore
+[submodule "Source/Paint"]
+	path = Source/Paint
+	url = https://github.com/thiscouldbebetter/Paint
+[submodule "Source/PixelArtEditor"]
+	path = Source/PixelArtEditor
+	url = https://github.com/thiscouldbebetter/PixelArtEditor
+[submodule "Source/RankedChoiceElection"]
+	path = Source/RankedChoiceElection
+	url = https://github.com/thiscouldbebetter/RankedChoiceElection
+[submodule "Source/RayTracer"]
+	path = Source/RayTracer
+	url = https://github.com/thiscouldbebetter/RayTracer
