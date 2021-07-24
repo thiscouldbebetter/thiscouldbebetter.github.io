@@ -103,3 +103,51 @@
 [submodule "Source/RoguelikeGame"]
 	path = Source/RoguelikeGame
 	url = https://github.com/thiscouldbebetter/RoguelikeGame
+[submodule "Source/RPGCombatEngine"]
+	path = Source/RPGCombatEngine
+	url = https://github.com/thiscouldbebetter/RPGCombatEngine
+[submodule "Source/ScrollableTileMapEngine"]
+	path = Source/ScrollableTileMapEngine
+	url = https://github.com/thiscouldbebetter/ScrollableTileMapEngine
+[submodule "Source/SideScrollingPlatformerGame"]
+	path = Source/SideScrollingPlatformerGame
+	url = https://github.com/thiscouldbebetter/SideScrollingPlatformerGame
+[submodule "Source/SolitaireGame"]
+	path = Source/SolitaireGame
+	url = https://github.com/thiscouldbebetter/SolitaireGame
+[submodule "Source/SoundEditor"]
+	path = Source/SoundEditor
+	url = https://github.com/thiscouldbebetter/SoundEditor
+[submodule "Source/SoundEffectSynthesizer"]
+	path = Source/SoundEffectSynthesizer
+	url = https://github.com/thiscouldbebetter/SoundEffectSynthesizer
+[submodule "Source/SpaceStrategy4XGame"]
+	path = Source/SpaceStrategy4XGame
+	url = https://github.com/thiscouldbebetter/SpaceStrategy4XGame
+[submodule "Source/SvgSimplifier"]
+	path = Source/SvgSimplifier
+	url = https://github.com/thiscouldbebetter/SvgSimplifier
+[submodule "Source/TacticsGame"]
+	path = Source/TacticsGame
+	url = https://github.com/thiscouldbebetter/TacticsGame
+[submodule "Source/TarFileExplorer"]
+	path = Source/TarFileExplorer
+	url = https://github.com/thiscouldbebetter/TarFileExplorer
+[submodule "Source/ThreeDeeMazeGame"]
+	path = Source/ThreeDeeMazeGame
+	url = https://github.com/thiscouldbebetter/ThreeDeeMazeGame
+[submodule "Source/TileMatchingGame"]
+	path = Source/TileMatchingGame
+	url = https://github.com/thiscouldbebetter/TileMatchingGame
+[submodule "Source/TopDownSpaceGame"]
+	path = Source/TopDownSpaceGame
+	url = https://github.com/thiscouldbebetter/TopDownSpaceGame
+[submodule "Source/TrueTypeViewer"]
+	path = Source/TrueTypeViewer
+	url = https://github.com/thiscouldbebetter/TrueTypeViewer
+[submodule "Source/TypeScriptToJavaScriptConverter"]
+	path = Source/TypeScriptToJavaScriptConverter
+	url = https://github.com/thiscouldbebetter/TypeScriptToJavaScriptConverter
+[submodule "Source/UrQuanMastersClone"]
+	path = Source/UrQuanMastersClone
+	url = https://github.com/thiscouldbebetter/UrQuanMastersClone
