@@ -157,12 +157,18 @@
 [submodule "Source/TextTransliterator"]
 	path = Source/TextTransliterator
 	url = https://github.com/thiscouldbebetter/TextTransliterator
-[submodule "Source/TextLexiconExtractor"]
-	path = Source/TextLexiconExtractor
-	url = https://github.com/thiscouldbebetter/TextLexiconExtractor
 [submodule "Source/TouchTypingTrainer"]
 	path = Source/TouchTypingTrainer
 	url = https://github.com/thiscouldbebetter/TouchTypingTrainer
 [submodule "Source/FileSplitter"]
 	path = Source/FileSplitter
 	url = https://github.com/thiscouldbebetter/FileSplitter
+[submodule "Source/Books"]
+	path = Source/Books
+	url = https://github.com/thiscouldbebetter/Books
+[submodule "Source/FarmingGame"]
+	path = Source/FarmingGame
+	url = https://github.com/thiscouldbebetter/FarmingGame
+[submodule "Source/TextVerbatimTranslator"]
+	path = Source/TextVerbatimTranslator
+	url = https://github.com/thiscouldbebetter/TextVerbatimTranslator
