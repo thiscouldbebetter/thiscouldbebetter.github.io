@@ -172,3 +172,9 @@
 [submodule "Source/TextVerbatimTranslator"]
 	path = Source/TextVerbatimTranslator
 	url = https://github.com/thiscouldbebetter/TextVerbatimTranslator
+[submodule "Source/ImageCharacterizer"]
+	path = Source/ImageCharacterizer
+	url = https://github.com/thiscouldbebetter/ImageCharacterizer
+[submodule "Source/ImageTagger"]
+	path = Source/ImageTagger
+	url = https://github.com/thiscouldbebetter/ImageTagger
