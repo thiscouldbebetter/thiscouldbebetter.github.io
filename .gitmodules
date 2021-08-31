@@ -178,3 +178,6 @@
 [submodule "Source/ImageTagger"]
 	path = Source/ImageTagger
 	url = https://github.com/thiscouldbebetter/ImageTagger
+[submodule "Source/AssemblerDisassembler"]
+	path = Source/AssemblerDisassembler
+	url = https://github.com/thiscouldbebetter/AssemblerDisassembler
