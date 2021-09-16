@@ -181,3 +181,6 @@
 [submodule "Source/AssemblerDisassembler"]
 	path = Source/AssemblerDisassembler
 	url = https://github.com/thiscouldbebetter/AssemblerDisassembler
+[submodule "Source/ImageCapturer"]
+	path = Source/ImageCapturer
+	url = https://github.com/thiscouldbebetter/ImageCapturer
