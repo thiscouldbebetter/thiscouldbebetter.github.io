@@ -184,3 +184,9 @@
 [submodule "Source/ImageCapturer"]
 	path = Source/ImageCapturer
 	url = https://github.com/thiscouldbebetter/ImageCapturer
+[submodule "Source/MeshEditor"]
+	path = Source/MeshEditor
+	url = https://github.com/thiscouldbebetter/MeshEditor
+[submodule "Source/--force"]
+	path = Source/--force
+	url = https://github.com/thiscouldbebetter/MeshEditor
