@@ -190,3 +190,27 @@
 [submodule "Source/--force"]
 	path = Source/--force
 	url = https://github.com/thiscouldbebetter/MeshEditor
+[submodule "Source/SnakeGame"]
+	path = Source/SnakeGame
+	url = https://github.com/thiscouldbebetter/SnakeGame
+[submodule "Source/SokobanGame"]
+	path = Source/SokobanGame
+	url = https://github.com/thiscouldbebetter/SokobanGame
+[submodule "Source/AerialCombatGame"]
+	path = Source/AerialCombatGame
+	url = https://github.com/thiscouldbebetter/AerialCombatGame
+[submodule "Source/MusicNotationRenderer"]
+	path = Source/MusicNotationRenderer
+	url = https://github.com/thiscouldbebetter/MusicNotationRenderer
+[submodule "Source/QrCodeGenerator"]
+	path = Source/QrCodeGenerator
+	url = https://github.com/thiscouldbebetter/QrCodeGenerator
+[submodule "Source/RSAEncryptor"]
+	path = Source/RSAEncryptor
+	url = https://github.com/thiscouldbebetter/RSAEncryptor
+[submodule "Source/ScheduledEventNotifier"]
+	path = Source/ScheduledEventNotifier
+	url = https://github.com/thiscouldbebetter/ScheduledEventNotifier
+[submodule "Source/EntropyHarvester"]
+	path = Source/EntropyHarvester
+	url = https://github.com/thiscouldbebetter/EntropyHarvester
