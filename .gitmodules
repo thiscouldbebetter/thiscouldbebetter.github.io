@@ -214,15 +214,3 @@
 [submodule "Source/EntropyHarvester"]
 	path = Source/EntropyHarvester
 	url = https://github.com/thiscouldbebetter/EntropyHarvester
-[submodule "SoundRecorder"]
-	path = SoundRecorder
-	url = https://github.com/thiscouldbebetter/SoundRecorder
-[submodule "FilesystemExplorerFAT12"]
-	path = FilesystemExplorerFAT12
-	url = https://github.com/thiscouldbebetter/FilesystemExplorerFAT12
-[submodule "ColladaFileViewer"]
-	path = ColladaFileViewer
-	url = https://github.com/thiscouldbebetter/ColladaFileViewer
-[submodule "FilesystemExplorerExt4"]
-	path = FilesystemExplorerExt4
-	url = https://github.com/thiscouldbebetter/FilesystemExplorerExt4
