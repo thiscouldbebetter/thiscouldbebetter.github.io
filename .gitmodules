@@ -226,3 +226,9 @@
 [submodule "Source/SoundRecorder"]
 	path = Source/SoundRecorder
 	url = https://github.com/thiscouldbebetter/SoundRecorder
+[submodule "Source/PlanetTopographyGenerator"]
+	path = Source/PlanetTopographyGenerator
+	url = https://github.com/thiscouldbebetter/PlanetTopographyGenerator
+[submodule "Source/RetirementSavingsCalculator"]
+	path = Source/RetirementSavingsCalculator
+	url = https://github.com/thiscouldbebetter/RetirementSavingsCalculator
