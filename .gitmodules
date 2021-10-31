@@ -232,3 +232,9 @@
 [submodule "Source/RetirementSavingsCalculator"]
 	path = Source/RetirementSavingsCalculator
 	url = https://github.com/thiscouldbebetter/RetirementSavingsCalculator
+[submodule "Source/TextBasedSvgEditor"]
+	path = Source/TextBasedSvgEditor
+	url = https://github.com/thiscouldbebetter/TextBasedSvgEditor
+[submodule "Source/TextToSpeechSynthesizer"]
+	path = Source/TextToSpeechSynthesizer
+	url = https://github.com/thiscouldbebetter/TextToSpeechSynthesizer
