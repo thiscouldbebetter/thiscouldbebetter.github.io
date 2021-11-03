@@ -238,3 +238,9 @@
 [submodule "Source/TextToSpeechSynthesizer"]
 	path = Source/TextToSpeechSynthesizer
 	url = https://github.com/thiscouldbebetter/TextToSpeechSynthesizer
+[submodule "Source/LogicTrainGame"]
+	path = Source/LogicTrainGame
+	url = https://github.com/thiscouldbebetter/LogicTrainGame
+[submodule "Source/JavaScriptParser"]
+	path = Source/JavaScriptParser
+	url = https://github.com/thiscouldbebetter/JavaScriptParser
