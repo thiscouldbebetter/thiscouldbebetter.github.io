@@ -232,3 +232,6 @@
 [submodule "Source/RetirementSavingsCalculator"]
 	path = Source/RetirementSavingsCalculator
 	url = https://github.com/thiscouldbebetter/RetirementSavingsCalculator
+[submodule "Source/CinematicsEngine"]
+	path = Source/CinematicsEngine
+	url = https://github.com/thiscouldbebetter/CinematicsEngine
