@@ -235,3 +235,18 @@
 [submodule "Source/CinematicsEngine"]
 	path = Source/CinematicsEngine
 	url = https://github.com/thiscouldbebetter/CinematicsEngine
+[submodule "Source/TextBasedSvgEditor"]
+	path = Source/TextBasedSvgEditor
+	url = https://github.com/thiscouldbebetter/TextBasedSvgEditor
+[submodule "Source/TextToSpeechSynthesizer"]
+	path = Source/TextToSpeechSynthesizer
+	url = https://github.com/thiscouldbebetter/TextToSpeechSynthesizer
+[submodule "Source/LogicTrainGame"]
+	path = Source/LogicTrainGame
+	url = https://github.com/thiscouldbebetter/LogicTrainGame
+[submodule "Source/JavaScriptParser"]
+	path = Source/JavaScriptParser
+	url = https://github.com/thiscouldbebetter/JavaScriptParser
+[submodule "Source/LogoProgrammingEnvironment"]
+	path = Source/LogoProgrammingEnvironment
+	url = https://github.com/thiscouldbebetter/LogoProgrammingEnvironment
