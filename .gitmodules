@@ -250,3 +250,6 @@
 [submodule "Source/LogoProgrammingEnvironment"]
 	path = Source/LogoProgrammingEnvironment
 	url = https://github.com/thiscouldbebetter/LogoProgrammingEnvironment
+[submodule "Source/ImageSequencer"]
+	path = Source/ImageSequencer
+	url = https://github.com/thiscouldbebetter/ImageSequencer
