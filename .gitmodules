@@ -253,3 +253,6 @@
 [submodule "Source/ImageSequencer"]
 	path = Source/ImageSequencer
 	url = https://github.com/thiscouldbebetter/ImageSequencer
+[submodule "Source/DicewarePasswordGenerator"]
+	path = Source/DicewarePasswordGenerator
+	url = https://github.com/thiscouldbebetter/DicewarePasswordGenerator
