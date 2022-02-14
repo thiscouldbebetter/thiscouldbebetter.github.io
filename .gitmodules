@@ -139,9 +139,6 @@
 [submodule "Source/TileMatchingGame"]
 	path = Source/TileMatchingGame
 	url = https://github.com/thiscouldbebetter/TileMatchingGame
-[submodule "Source/TopDownSpaceGame"]
-	path = Source/TopDownSpaceGame
-	url = https://github.com/thiscouldbebetter/TopDownSpaceGame
 [submodule "Source/TrueTypeViewer"]
 	path = Source/TrueTypeViewer
 	url = https://github.com/thiscouldbebetter/TrueTypeViewer
