@@ -253,3 +253,6 @@
 [submodule "Source/DicewarePasswordGenerator"]
 	path = Source/DicewarePasswordGenerator
 	url = https://github.com/thiscouldbebetter/DicewarePasswordGenerator
+[submodule "Source/TopDownSpaceGame"]
+	path = Source/TopDownSpaceGame
+	url = https://github.com/thiscouldbebetter/TopDownSpaceGame
