@@ -256,3 +256,6 @@
 [submodule "Source/TopDownSpaceGame"]
 	path = Source/TopDownSpaceGame
 	url = https://github.com/thiscouldbebetter/TopDownSpaceGame
+[submodule "Source/TopDownDungeonGame"]
+	path = Source/TopDownDungeonGame
+	url = https://github.com/thiscouldbebetter/TopDownDungeonGame
