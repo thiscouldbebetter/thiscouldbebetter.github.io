@@ -262,3 +262,6 @@
 [submodule "Source/RpgCombatEngine2"]
 	path = Source/RpgCombatEngine2
 	url = https://github.com/thiscouldbebetter/RpgCombatEngine2
+[submodule "Source/ImageGallery"]
+	path = Source/ImageGallery
+	url = https://thiscouldbebetter@github.com/thiscouldbebetter/ImageGallery
