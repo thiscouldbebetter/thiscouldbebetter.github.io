@@ -265,3 +265,6 @@
 [submodule "Source/ImageGallery"]
 	path = Source/ImageGallery
 	url = https://thiscouldbebetter@github.com/thiscouldbebetter/ImageGallery
+[submodule "Source/PseudorandomPasswordGenerator"]
+	path = Source/PseudorandomPasswordGenerator
+	url = https://github.com/thiscouldbebetter/PseudorandomPasswordGenerator
