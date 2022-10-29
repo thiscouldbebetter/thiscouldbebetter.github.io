@@ -268,3 +268,6 @@
 [submodule "Source/PseudorandomPasswordGenerator"]
 	path = Source/PseudorandomPasswordGenerator
 	url = https://github.com/thiscouldbebetter/PseudorandomPasswordGenerator
+[submodule "Source/Stopwatch"]
+	path = Source/Stopwatch
+	url = https://github.com/thiscouldbebetter/Stopwatch
