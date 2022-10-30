@@ -271,3 +271,6 @@
 [submodule "Source/Stopwatch"]
 	path = Source/Stopwatch
 	url = https://github.com/thiscouldbebetter/Stopwatch
+[submodule "Source/Clock"]
+	path = Source/Clock
+	url = https://github.com/thiscouldbebetter/Clock
