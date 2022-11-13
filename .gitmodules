@@ -274,3 +274,6 @@
 [submodule "Source/Clock"]
 	path = Source/Clock
 	url = https://github.com/thiscouldbebetter/Clock
+[submodule "Source/CountdownTimerWithAlarm"]
+	path = Source/CountdownTimerWithAlarm
+	url = https://github.com/thiscouldbebetter/CountdownTimerWithAlarm
