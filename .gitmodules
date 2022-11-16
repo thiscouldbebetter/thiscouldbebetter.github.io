@@ -277,3 +277,6 @@
 [submodule "Source/CountdownTimerWithAlarm"]
 	path = Source/CountdownTimerWithAlarm
 	url = https://github.com/thiscouldbebetter/CountdownTimerWithAlarm
+[submodule "Source/TextFinderAndReplacer"]
+	path = Source/TextFinderAndReplacer
+	url = https://github.com/thiscouldbebetter/TextFinderAndReplacer
