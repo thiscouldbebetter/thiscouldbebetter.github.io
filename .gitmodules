@@ -280,3 +280,6 @@
 [submodule "Source/TextFinderAndReplacer"]
 	path = Source/TextFinderAndReplacer
 	url = https://github.com/thiscouldbebetter/TextFinderAndReplacer
+[submodule "Source/ExeFileFormatExplorer"]
+	path = Source/ExeFileFormatExplorer
+	url = https://github.com/thiscouldbebetter/ExeFileFormatExplorer
