@@ -283,3 +283,9 @@
 [submodule "Source/ExeFileFormatExplorer"]
 	path = Source/ExeFileFormatExplorer
 	url = https://github.com/thiscouldbebetter/ExeFileFormatExplorer
+[submodule "Source/HtmlToPlaintextConverter"]
+	path = Source/HtmlToPlaintextConverter
+	url = https://github.com/thiscouldbebetter/HtmlToPlaintextConverter
+[submodule "Source/PdfFileFormatExplorer"]
+	path = Source/PdfFileFormatExplorer
+	url = https://github.com/thiscouldbebetter/PdfFileFormatExplorer
