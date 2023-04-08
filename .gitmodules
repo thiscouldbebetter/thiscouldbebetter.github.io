@@ -289,3 +289,6 @@
 [submodule "Source/PdfFileFormatExplorer"]
 	path = Source/PdfFileFormatExplorer
 	url = https://github.com/thiscouldbebetter/PdfFileFormatExplorer
+[submodule "Source/ImageProcessor"]
+	path = Source/ImageProcessor
+	url = https://github.com/thiscouldbebetter/ImageProcessor
