@@ -292,3 +292,6 @@
 [submodule "Source/ImageProcessor"]
 	path = Source/ImageProcessor
 	url = https://github.com/thiscouldbebetter/ImageProcessor
+[submodule "Source/TextAdventureEngine"]
+	path = Source/TextAdventureEngine
+	url = https://github.com/thiscouldbebetter/TextAdventureEngine
