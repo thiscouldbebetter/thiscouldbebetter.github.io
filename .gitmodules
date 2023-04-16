@@ -295,3 +295,6 @@
 [submodule "Source/TextAdventureEngine"]
 	path = Source/TextAdventureEngine
 	url = https://github.com/thiscouldbebetter/TextAdventureEngine
+[submodule "Source/RandomChoiceMaker"]
+	path = Source/RandomChoiceMaker
+	url = https://github.com/thiscouldbebetter/RandomChoiceMaker
