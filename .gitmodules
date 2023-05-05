@@ -304,3 +304,6 @@
 [submodule "Source/TextDifferencer"]
 	path = Source/TextDifferencer
 	url = https://github.com/thiscouldbebetter/TextDifferencer
+[submodule "Source/SimpleDeflateDecompressor"]
+	path = Source/SimpleDeflateDecompressor
+	url = https://github.com/thiscouldbebetter/SimpleDeflateDecompressor
