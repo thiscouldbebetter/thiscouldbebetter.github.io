@@ -301,3 +301,12 @@
 [submodule "Source/EncryptorDecryptorOneTimePad"]
 	path = Source/EncryptorDecryptorOneTimePad
 	url = https://github.com/thiscouldbebetter/EncryptorDecryptorOneTimePad
+[submodule "Source/TextEditor"]
+	path = Source/TextEditor
+	url = https://github.com/thiscouldbebetter/TextEditor
+[submodule "Source/TextDifferencer"]
+	path = Source/TextDifferencer
+	url = https://github.com/thiscouldbebetter/TextDifferencer
+[submodule "Source/SimpleDeflateDecompressor"]
+	path = Source/SimpleDeflateDecompressor
+	url = https://github.com/thiscouldbebetter/SimpleDeflateDecompressor
