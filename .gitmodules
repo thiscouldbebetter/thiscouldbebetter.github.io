@@ -307,3 +307,6 @@
 [submodule "Source/SimpleDeflateDecompressor"]
 	path = Source/SimpleDeflateDecompressor
 	url = https://github.com/thiscouldbebetter/SimpleDeflateDecompressor
+[submodule "Source/ScrollingShooterGame"]
+	path = Source/ScrollingShooterGame
+	url = https://github.com/thiscouldbebetter/ScrollingShooterGame
