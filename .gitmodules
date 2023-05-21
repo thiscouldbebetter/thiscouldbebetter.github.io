@@ -298,6 +298,9 @@
 [submodule "Source/RandomChoiceMaker"]
 	path = Source/RandomChoiceMaker
 	url = https://github.com/thiscouldbebetter/RandomChoiceMaker
+[submodule "Source/EncryptorDecryptorOneTimePad"]
+	path = Source/EncryptorDecryptorOneTimePad
+	url = https://github.com/thiscouldbebetter/EncryptorDecryptorOneTimePad
 [submodule "Source/TextEditor"]
 	path = Source/TextEditor
 	url = https://github.com/thiscouldbebetter/TextEditor
