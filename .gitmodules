@@ -319,3 +319,9 @@
 [submodule "Source/MinesweeperClone"]
 	path = Source/MinesweeperClone
 	url = https://github.com/thiscouldbebetter/MinesweeperClone
+[submodule "Source/MarkdownToHtmlConverter"]
+	path = Source/MarkdownToHtmlConverter
+	url = https://github.com/thiscouldbebetter/MarkdownToHtmlConverter
+[submodule "Source/TextTimestampShifter"]
+	path = Source/TextTimestampShifter
+	url = https://github.com/thiscouldbebetter/TextTimestampShifter
