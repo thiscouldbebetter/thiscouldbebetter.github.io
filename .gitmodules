@@ -316,3 +316,6 @@
 [submodule "Source/MusicalKeyboardInstrument"]
 	path = Source/MusicalKeyboardInstrument
 	url = https://github.com/thiscouldbebetter/MusicalKeyboardInstrument
+[submodule "Source/MinesweeperClone"]
+	path = Source/MinesweeperClone
+	url = https://github.com/thiscouldbebetter/MinesweeperClone
