@@ -325,3 +325,6 @@
 [submodule "Source/TextTimestampShifter"]
 	path = Source/TextTimestampShifter
 	url = https://github.com/thiscouldbebetter/TextTimestampShifter
+[submodule "Source/CsvDataSearcher"]
+	path = Source/CsvDataSearcher
+	url = https://github.com/thiscouldbebetter/CsvDataSearcher
