@@ -331,3 +331,6 @@
 [submodule "Source/SlidingTilePuzzle"]
 	path = Source/SlidingTilePuzzle
 	url = https://github.com/thiscouldbebetter/SlidingTilePuzzle
+[submodule "Source/DualStickShooterGame"]
+	path = Source/DualStickShooterGame
+	url = https://github.com/thiscouldbebetter/DualStickShooterGame
