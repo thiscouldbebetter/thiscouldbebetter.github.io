@@ -328,3 +328,6 @@
 [submodule "Source/CsvDataSearcher"]
 	path = Source/CsvDataSearcher
 	url = https://github.com/thiscouldbebetter/CsvDataSearcher
+[submodule "Source/SlidingTilePuzzle"]
+	path = Source/SlidingTilePuzzle
+	url = https://github.com/thiscouldbebetter/SlidingTilePuzzle
