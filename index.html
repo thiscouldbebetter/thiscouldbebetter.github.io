@@ -12,11 +12,13 @@
 
 	<h2>Repositories on this site:</h2>
 
-	<ul id="ulRepos"></ul>
+	<table id="tableRepos"></table>
 
 	<script type="text/javascript">
 
-		var reposAsList = document.getElementById("ulRepos");
+		var d = document;
+
+		var reposAsTable = d.getElementById("tableRepos");
 
 		var repoNames = 
 		[
@@ -132,21 +134,40 @@
 			"UrQuanMastersClone",
 		];
 
-		for (var i = 0; i < repoNames.length; i++)
+		var columnCount = 4;
+		var reposPerColumn = Math.ceil(repoNames.length / columnCount);
+
+		var tableRows = [];
+		for (var r = 0; r < reposPerColumn; r++)
 		{
-			var repoName = repoNames[i];
-			var linkToRepo = document.createElement("a");
-			linkToRepo.style.color = "White";
-			linkToRepo.innerHTML = repoName;
-			linkToRepo.href = "Source/" + repoName + "/Source/" + repoName + ".html";
-			var repoAsListItem = document.createElement("li");
-			repoAsListItem.appendChild(linkToRepo);
-			reposAsList.appendChild(repoAsListItem);
+			var tableRow = d.createElement("tr");
+			tableRows.push(tableRow);
+			reposAsTable.appendChild(tableRow);
+		}
+
+		for (var c = 0; c < columnCount; c++)
+		{
+			var repoFirstInColumnIndex = (c * reposPerColumn);
+			var repoLastInColumnIndex = repoFirstInColumnIndex + reposPerColumn - 1;
+			var reposInColumnNames =
+				repoNames.slice(repoFirstInColumnIndex, repoLastInColumnIndex);
+			for (var i = 0; i < reposInColumnNames.length; i++)
+			{
+				var repoName = reposInColumnNames[i];
+				var linkToRepo = d.createElement("a");
+				linkToRepo.style.color = "White";
+				linkToRepo.innerHTML = repoName;
+				linkToRepo.href = "Source/" + repoName + "/Source/" + repoName + ".html";
+				var repoAsTableCell = d.createElement("td");
+				repoAsTableCell.appendChild(linkToRepo);
+				var tableRow = tableRows[i];
+				tableRow.appendChild(repoAsTableCell);
+			}
 		}
 
 	</script>
 
-<p>This message was last updated on 2023/14/16.</p>
+<p>This message was last updated on 2023/06/11.</p>
 
 </body>
 
