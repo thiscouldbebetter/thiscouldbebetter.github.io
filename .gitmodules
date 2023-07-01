@@ -331,3 +331,6 @@
 [submodule "Source/DualStickShooterGame"]
 	path = Source/DualStickShooterGame
 	url = https://github.com/thiscouldbebetter/DualStickShooterGame
+[submodule "Source/CivilizationBuildingGame3"]
+	path = Source/CivilizationBuildingGame3
+	url = https://github.com/thiscouldbebetter/CivilizationBuildingGame3
