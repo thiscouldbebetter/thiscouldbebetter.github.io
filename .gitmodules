@@ -16,9 +16,6 @@
 [submodule "Source/Calculator"]
 	path = Source/Calculator
 	url = https://github.com/thiscouldbebetter/Calculator
-[submodule "Source/CivilizationBuildingGame"]
-	path = Source/CivilizationBuildingGame
-	url = https://github.com/thiscouldbebetter/CivilizationBuildingGame
 [submodule "Source/CompressorLZW"]
 	path = Source/CompressorLZW
 	url = https://github.com/thiscouldbebetter/CompressorLZW
