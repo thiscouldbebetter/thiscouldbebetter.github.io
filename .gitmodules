@@ -334,3 +334,6 @@
 [submodule "Source/CivilizationBuildingGame3"]
 	path = Source/CivilizationBuildingGame3
 	url = https://github.com/thiscouldbebetter/CivilizationBuildingGame3
+[submodule "Source/TextToImageConverter"]
+	path = Source/TextToImageConverter
+	url = https://github.com/thiscouldbebetter/TextToImageConverter
