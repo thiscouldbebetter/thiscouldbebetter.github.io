@@ -337,3 +337,6 @@
 [submodule "Source/TextToImageConverter"]
 	path = Source/TextToImageConverter
 	url = https://github.com/thiscouldbebetter/TextToImageConverter
+[submodule "Source/Links"]
+	path = Source/Links
+	url = https://github.com/thiscouldbebetter/Links
