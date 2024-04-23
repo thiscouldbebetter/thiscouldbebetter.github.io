@@ -340,3 +340,6 @@
 [submodule "Source/Links"]
 	path = Source/Links
 	url = https://github.com/thiscouldbebetter/Links
+[submodule "Source/ImageFontRenderer"]
+	path = Source/ImageFontRenderer
+	url = https://github.com/thiscouldbebetter/ImageFontRenderer
