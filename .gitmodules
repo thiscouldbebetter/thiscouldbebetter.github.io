@@ -343,3 +343,6 @@
 [submodule "Source/ImageFontRenderer"]
 	path = Source/ImageFontRenderer
 	url = https://github.com/thiscouldbebetter/ImageFontRenderer
+[submodule "Source/FontTracingEngine"]
+	path = Source/FontTracingEngine
+	url = https://github.com/thiscouldbebetter/FontTracingEngine
