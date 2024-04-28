@@ -346,3 +346,9 @@
 [submodule "Source/FontTracingEngine"]
 	path = Source/FontTracingEngine
 	url = https://github.com/thiscouldbebetter/FontTracingEngine
+[submodule "Source/ImageDeformer"]
+	path = Source/ImageDeformer
+	url = https://github.com/thiscouldbebetter/ImageDeformer
+[submodule "Source/JsonToSvgDiagrammer"]
+	path = Source/JsonToSvgDiagrammer
+	url = https://github.com/thiscouldbebetter/JsonToSvgDiagrammer
