@@ -352,3 +352,6 @@
 [submodule "Source/JsonToSvgDiagrammer"]
 	path = Source/JsonToSvgDiagrammer
 	url = https://github.com/thiscouldbebetter/JsonToSvgDiagrammer
+[submodule "Source/Geolocator"]
+	path = Source/Geolocator
+	url = https://github.com/thiscouldbebetter/Geolocator
