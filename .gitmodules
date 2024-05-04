@@ -355,3 +355,6 @@
 [submodule "Source/Geolocator"]
 	path = Source/Geolocator
 	url = https://github.com/thiscouldbebetter/Geolocator
+[submodule "Source/OnlineEnglishDictionary"]
+	path = Source/OnlineEnglishDictionary
+	url = https://github.com/thiscouldbebetter/OnlineEnglishDictionary
