@@ -358,3 +358,6 @@
 [submodule "Source/OnlineEnglishDictionary"]
 	path = Source/OnlineEnglishDictionary
 	url = https://github.com/thiscouldbebetter/OnlineEnglishDictionary
+[submodule "Source/SpaceAdventureTextGame"]
+	path = Source/SpaceAdventureTextGame
+	url = https://github.com/thiscouldbebetter/SpaceAdventureTextGame
