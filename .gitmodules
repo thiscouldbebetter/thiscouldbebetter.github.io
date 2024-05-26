@@ -361,3 +361,12 @@
 [submodule "Source/SpaceAdventureTextGame"]
 	path = Source/SpaceAdventureTextGame
 	url = https://github.com/thiscouldbebetter/SpaceAdventureTextGame
+[submodule "Source/TextIndexer"]
+	path = Source/TextIndexer
+	url = https://github.com/thiscouldbebetter/TextIndexer
+[submodule "Source/TextWrapperUnwrapper"]
+	path = Source/TextWrapperUnwrapper
+	url = https://github.com/thiscouldbebetter/TextWrapperUnwrapper
+[submodule "Source/BarcodeGenerator"]
+	path = Source/BarcodeGenerator
+	url = https://github.com/thiscouldbebetter/BarcodeGenerator
