@@ -370,3 +370,9 @@
 [submodule "Source/BarcodeGenerator"]
 	path = Source/BarcodeGenerator
 	url = https://github.com/thiscouldbebetter/BarcodeGenerator
+[submodule "Source/MorseCodeEncoderDecoder"]
+	path = Source/MorseCodeEncoderDecoder
+	url = https://github.com/thiscouldbebetter/MorseCodeEncoderDecoder
+[submodule "Source/NodeJsNetSocketEchoServerAndClient"]
+	path = Source/NodeJsNetSocketEchoServerAndClient
+	url = https://github.com/thiscouldbebetter/NodeJsNetSocketEchoServerAndClient
