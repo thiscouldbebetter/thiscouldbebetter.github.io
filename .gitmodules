@@ -376,3 +376,6 @@
 [submodule "Source/NodeJsNetSocketEchoServerAndClient"]
 	path = Source/NodeJsNetSocketEchoServerAndClient
 	url = https://github.com/thiscouldbebetter/NodeJsNetSocketEchoServerAndClient
+[submodule "Source/HuffmanEncoderDecoder"]
+	path = Source/HuffmanEncoderDecoder
+	url = https://github.com/thiscouldbebetter/HuffmanEncoderDecoder
