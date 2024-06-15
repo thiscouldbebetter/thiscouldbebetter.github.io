@@ -379,3 +379,6 @@
 [submodule "Source/HuffmanEncoderDecoder"]
 	path = Source/HuffmanEncoderDecoder
 	url = https://github.com/thiscouldbebetter/HuffmanEncoderDecoder
+[submodule "Source/MathTableGenerator"]
+	path = Source/MathTableGenerator
+	url = https://github.com/thiscouldbebetter/MathTableGenerator
