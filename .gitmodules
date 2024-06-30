@@ -382,3 +382,6 @@
 [submodule "Source/MathTableGenerator"]
 	path = Source/MathTableGenerator
 	url = https://github.com/thiscouldbebetter/MathTableGenerator
+[submodule "Source/CharacterFaceMaker"]
+	path = Source/CharacterFaceMaker
+	url = https://github.com/thiscouldbebetter/CharacterFaceMaker
