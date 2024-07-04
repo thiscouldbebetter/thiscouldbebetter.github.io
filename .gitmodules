@@ -385,3 +385,9 @@
 [submodule "Source/CharacterFaceMaker"]
 	path = Source/CharacterFaceMaker
 	url = https://github.com/thiscouldbebetter/CharacterFaceMaker
+[submodule "Source/CalorieCalculator"]
+	path = Source/CalorieCalculator
+	url = https://github.com/thiscouldbebetter/CalorieCalculator
+[submodule "Source/ImageViewerPcx"]
+	path = Source/ImageViewerPcx
+	url = https://github.com/thiscouldbebetter/ImageViewerPcx
