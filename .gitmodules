@@ -391,3 +391,6 @@
 [submodule "Source/ImageViewerPcx"]
 	path = Source/ImageViewerPcx
 	url = https://github.com/thiscouldbebetter/ImageViewerPcx
+[submodule "Source/SideScrollingPlatformerGame-GridBased"]
+	path = Source/SideScrollingPlatformerGame-GridBased
+	url = https://github.com/thiscouldbebetter/SideScrollingPlatformerGame-GridBased
