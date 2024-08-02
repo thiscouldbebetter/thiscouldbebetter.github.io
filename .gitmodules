@@ -394,3 +394,12 @@
 [submodule "Source/SideScrollingPlatformerGame-GridBased"]
 	path = Source/SideScrollingPlatformerGame-GridBased
 	url = https://github.com/thiscouldbebetter/SideScrollingPlatformerGame-GridBased
+[submodule "Source/BaseDefenseGame"]
+	path = Source/BaseDefenseGame
+	url = https://github.com/thiscouldbebetter/BaseDefenseGame
+[submodule "Source/BrickBreakingGame"]
+	path = Source/BrickBreakingGame
+	url = https://github.com/thiscouldbebetter/BrickBreakingGame
+[submodule "Source/CarRacingGame"]
+	path = Source/CarRacingGame
+	url = https://github.com/thiscouldbebetter/CarRacingGame
