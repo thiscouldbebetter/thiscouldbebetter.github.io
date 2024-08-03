@@ -409,3 +409,6 @@
 [submodule "Source/CivilizationBuildingGame2"]
 	path = Source/CivilizationBuildingGame2
 	url = https://github.com/thiscouldbebetter/CivilizationBuildingGame2
+[submodule "Source/LunarLanderGame"]
+	path = Source/LunarLanderGame
+	url = https://github.com/thiscouldbebetter/LunarLanderGame
