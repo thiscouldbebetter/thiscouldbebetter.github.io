@@ -403,3 +403,9 @@
 [submodule "Source/CarRacingGame"]
 	path = Source/CarRacingGame
 	url = https://github.com/thiscouldbebetter/CarRacingGame
+[submodule "Source/CivilizationBuildingGame"]
+	path = Source/CivilizationBuildingGame
+	url = https://github.com/thiscouldbebetter/CivilizationBuildingGame
+[submodule "Source/CivilizationBuildingGame2"]
+	path = Source/CivilizationBuildingGame2
+	url = https://github.com/thiscouldbebetter/CivilizationBuildingGame2
