@@ -412,3 +412,30 @@
 [submodule "Source/LunarLanderGame"]
 	path = Source/LunarLanderGame
 	url = https://github.com/thiscouldbebetter/LunarLanderGame
+[submodule "Source/ThreeDeeWireframeGraphicsDemo"]
+	path = Source/ThreeDeeWireframeGraphicsDemo
+	url = https://github.com/thiscouldbebetter/ThreeDeeWireframeGraphicsDemo
+[submodule "Source/VirtualMachine"]
+	path = Source/VirtualMachine
+	url = https://github.com/thiscouldbebetter/VirtualMachine
+[submodule "Source/ZipFileFormatExplorer"]
+	path = Source/ZipFileFormatExplorer
+	url = https://github.com/thiscouldbebetter/ZipFileFormatExplorer
+[submodule "Source/VisualAcuityChartGenerator"]
+	path = Source/VisualAcuityChartGenerator
+	url = https://github.com/thiscouldbebetter/VisualAcuityChartGenerator
+[submodule "Source/ArtAssets"]
+	path = Source/ArtAssets
+	url = https://github.com/thiscouldbebetter/ArtAssets
+[submodule "Source/CookingRecipes"]
+	path = Source/CookingRecipes
+	url = https://github.com/thiscouldbebetter/CookingRecipes
+[submodule "Source/MediaLibrary"]
+	path = Source/MediaLibrary
+	url = https://github.com/thiscouldbebetter/MediaLibrary
+[submodule "Source/ThreeDeeModels"]
+	path = Source/ThreeDeeModels
+	url = https://github.com/thiscouldbebetter/ThreeDeeModels
+[submodule "Source/BlueberryEmpire-AdductorWing"]
+	path = Source/BlueberryEmpire-AdductorWing
+	url = https://github.com/thiscouldbebetter/BlueberryEmpire-AdductorWing
