@@ -436,6 +436,3 @@
 [submodule "Source/ThreeDeeModels"]
 	path = Source/ThreeDeeModels
 	url = https://github.com/thiscouldbebetter/ThreeDeeModels
-[submodule "Source/BlueberryEmpire-AdductorWing"]
-	path = Source/BlueberryEmpire-AdductorWing
-	url = https://github.com/thiscouldbebetter/BlueberryEmpire-AdductorWing
