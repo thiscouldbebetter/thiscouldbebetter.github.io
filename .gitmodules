@@ -436,3 +436,9 @@
 [submodule "Source/ThreeDeeModels"]
 	path = Source/ThreeDeeModels
 	url = https://github.com/thiscouldbebetter/ThreeDeeModels
+[submodule "Source/ImageTextureMipmapper"]
+	path = Source/ImageTextureMipmapper
+	url = https://github.com/thiscouldbebetter/ImageTextureMipmapper
+[submodule "Source/ImageFileToDataUrlConverter"]
+	path = Source/ImageFileToDataUrlConverter
+	url = https://github.com/thiscouldbebetter/ImageFileToDataUrlConverter
