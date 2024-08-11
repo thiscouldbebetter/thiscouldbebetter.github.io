@@ -442,3 +442,6 @@
 [submodule "Source/ImageFileToDataUrlConverter"]
 	path = Source/ImageFileToDataUrlConverter
 	url = https://github.com/thiscouldbebetter/ImageFileToDataUrlConverter
+[submodule "Source/CaptchaGenerator"]
+	path = Source/CaptchaGenerator
+	url = https://github.com/thiscouldbebetter/CaptchaGenerator
