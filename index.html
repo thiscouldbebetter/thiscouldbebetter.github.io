@@ -180,9 +180,14 @@
 		for (var c = 0; c < columnCount; c++)
 		{
 			var repoFirstInColumnIndex = (c * reposPerColumn);
-			var repoLastInColumnIndex = repoFirstInColumnIndex + reposPerColumn - 1;
-			var reposInColumnNames =
-				repoNames.slice(repoFirstInColumnIndex, repoLastInColumnIndex);
+			var repoLastInColumnIndex =
+				repoFirstInColumnIndex + reposPerColumn;
+			var reposInColumnNames = repoNames.slice
+			(
+				repoFirstInColumnIndex,
+				repoLastInColumnIndex
+			);
+
 			for (var i = 0; i < reposInColumnNames.length; i++)
 			{
 				var repoName = reposInColumnNames[i];
@@ -199,7 +204,7 @@
 
 	</script>
 
-<p>This message was last updated on 2024/08/11.</p>
+<p>This message was last updated on 2024/08/19.</p>
 
 </body>
 
