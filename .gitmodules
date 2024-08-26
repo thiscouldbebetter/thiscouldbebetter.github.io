@@ -445,3 +445,9 @@
 [submodule "Source/CaptchaGenerator"]
 	path = Source/CaptchaGenerator
 	url = https://github.com/thiscouldbebetter/CaptchaGenerator
+[submodule "Source/TextBlocksToFilesSplitter"]
+	path = Source/TextBlocksToFilesSplitter
+	url = https://github.com/thiscouldbebetter/TextBlocksToFilesSplitter
+[submodule "Source/TextFileConcatenator"]
+	path = Source/TextFileConcatenator
+	url = https://github.com/thiscouldbebetter/TextFileConcatenator
