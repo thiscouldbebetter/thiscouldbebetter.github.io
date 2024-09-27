@@ -451,3 +451,6 @@
 [submodule "Source/TextFileConcatenator"]
 	path = Source/TextFileConcatenator
 	url = https://github.com/thiscouldbebetter/TextFileConcatenator
+[submodule "Source/CsvCompressor"]
+	path = Source/CsvCompressor
+	url = https://github.com/thiscouldbebetter/CsvCompressor
