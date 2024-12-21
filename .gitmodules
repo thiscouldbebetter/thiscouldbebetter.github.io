@@ -454,3 +454,6 @@
 [submodule "Source/CsvCompressor"]
 	path = Source/CsvCompressor
 	url = https://github.com/thiscouldbebetter/CsvCompressor
+[submodule "Source/MusicalTunerAndMetronome"]
+	path = Source/MusicalTunerAndMetronome
+	url = https://github.com/thiscouldbebetter/MusicalTunerAndMetronome
