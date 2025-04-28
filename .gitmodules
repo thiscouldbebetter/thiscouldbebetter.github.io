@@ -457,3 +457,6 @@
 [submodule "Source/MusicalTunerAndMetronome"]
 	path = Source/MusicalTunerAndMetronome
 	url = https://github.com/thiscouldbebetter/MusicalTunerAndMetronome
+[submodule "Source/ImageViewerPng"]
+	path = Source/ImageViewerPng
+	url = https://github.com/thiscouldbebetter/ImageViewerPng
