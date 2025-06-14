@@ -460,3 +460,6 @@
 [submodule "Source/ImageViewerPng"]
 	path = Source/ImageViewerPng
 	url = https://github.com/thiscouldbebetter/ImageViewerPng
+[submodule "Source/MusicFromTextSynthesizer"]
+	path = Source/MusicFromTextSynthesizer
+	url = https://github.com/thiscouldbebetter/MusicFromTextSynthesizer
