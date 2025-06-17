@@ -463,3 +463,6 @@
 [submodule "Source/MusicFromTextSynthesizer"]
 	path = Source/MusicFromTextSynthesizer
 	url = https://github.com/thiscouldbebetter/MusicFromTextSynthesizer
+[submodule "Source/SoundFrequencyAnalyzer"]
+	path = Source/SoundFrequencyAnalyzer
+	url = https://github.com/thiscouldbebetter/SoundFrequencyAnalyzer
