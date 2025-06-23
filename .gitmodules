@@ -466,3 +466,6 @@
 [submodule "Source/SoundFrequencyAnalyzer"]
 	path = Source/SoundFrequencyAnalyzer
 	url = https://github.com/thiscouldbebetter/SoundFrequencyAnalyzer
+[submodule "Source/JsDirectoryTreeToHtmlScriptHostGenerator"]
+	path = Source/JsDirectoryTreeToHtmlScriptHostGenerator
+	url = https://github.com/thiscouldbebetter/JsDirectoryTreeToHtmlScriptHostGenerator
