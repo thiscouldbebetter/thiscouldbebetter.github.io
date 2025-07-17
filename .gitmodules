@@ -469,3 +469,6 @@
 [submodule "Source/JsDirectoryTreeToHtmlScriptHostGenerator"]
 	path = Source/JsDirectoryTreeToHtmlScriptHostGenerator
 	url = https://github.com/thiscouldbebetter/JsDirectoryTreeToHtmlScriptHostGenerator
+[submodule "Source/Ruler"]
+	path = Source/Ruler
+	url = https://github.com/thiscouldbebetter/Ruler
