@@ -475,3 +475,6 @@
 [submodule "Source/PaperBasedDataArchiver"]
 	path = Source/PaperBasedDataArchiver
 	url = https://github.com/thiscouldbebetter/PaperBasedDataArchiver
+[submodule "Source/PrintPagesToSignaturesImposer"]
+	path = Source/PrintPagesToSignaturesImposer
+	url = https://github.com/thiscouldbebetter/PrintPagesToSignaturesImposer
