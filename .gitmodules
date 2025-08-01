@@ -478,3 +478,6 @@
 [submodule "Source/PrintPagesToSignaturesImposer"]
 	path = Source/PrintPagesToSignaturesImposer
 	url = https://github.com/thiscouldbebetter/PrintPagesToSignaturesImposer
+[submodule "Source/PixelArtEnlarger"]
+	path = Source/PixelArtEnlarger
+	url = https://github.com/thiscouldbebetter/PixelArtEnlarger
