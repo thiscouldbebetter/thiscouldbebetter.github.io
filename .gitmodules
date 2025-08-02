@@ -481,3 +481,6 @@
 [submodule "Source/PixelArtEnlarger"]
 	path = Source/PixelArtEnlarger
 	url = https://github.com/thiscouldbebetter/PixelArtEnlarger
+[submodule "Source/ImageAsAnimation"]
+	path = Source/ImageAsAnimation
+	url = https://github.com/thiscouldbebetter/ImageAsAnimation
