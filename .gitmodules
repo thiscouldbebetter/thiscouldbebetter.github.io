@@ -484,3 +484,6 @@
 [submodule "Source/ImageAsAnimation"]
 	path = Source/ImageAsAnimation
 	url = https://github.com/thiscouldbebetter/ImageAsAnimation
+[submodule "Source/WavFileViewer"]
+	path = Source/WavFileViewer
+	url = https://github.com/thiscouldbebetter/WavFileViewer
