@@ -490,3 +490,9 @@
 [submodule "Source/PlanetaryDefenseFighterGame"]
 	path = Source/PlanetaryDefenseFighterGame
 	url = https://github.com/thiscouldbebetter/PlanetaryDefenseFighterGame
+[submodule "Source/UltimaUnderworld2Clone"]
+	path = Source/UltimaUnderworld2Clone
+	url = https://github.com/thiscouldbebetter/UltimaUnderworld2Clone
+[submodule "Source/TextToLineArtImageConverter"]
+	path = Source/TextToLineArtImageConverter
+	url = https://github.com/thiscouldbebetter/TextToLineArtImageConverter
