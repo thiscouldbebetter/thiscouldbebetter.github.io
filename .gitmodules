@@ -496,3 +496,6 @@
 [submodule "Source/TextToLineArtImageConverter"]
 	path = Source/TextToLineArtImageConverter
 	url = https://github.com/thiscouldbebetter/TextToLineArtImageConverter
+[submodule "Source/LineArtImageToMeshConverter"]
+	path = Source/LineArtImageToMeshConverter
+	url = https://github.com/thiscouldbebetter/LineArtImageToMeshConverter
