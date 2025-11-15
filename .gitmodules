@@ -499,3 +499,6 @@
 [submodule "Source/LineArtImageToMeshConverter"]
 	path = Source/LineArtImageToMeshConverter
 	url = https://github.com/thiscouldbebetter/LineArtImageToMeshConverter
+[submodule "Source/TextOverImageCompositor"]
+	path = Source/TextOverImageCompositor
+	url = https://github.com/thiscouldbebetter/TextOverImageCompositor
